@@ -12,5 +12,5 @@ psycopg2==2.7.4
 PyGreSQL==5.0.4
 requests==2.18.4
 urllib3==1.22
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 jsonify == 0.5
